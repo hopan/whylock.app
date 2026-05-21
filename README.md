@@ -39,7 +39,7 @@ Or unlock everything for a **one-time $0.99 purchase**. No subscription. No ads.
 
 All data stays on your device. Nothing is sent to any server. No account required.
 
-[Privacy Policy](docs/privacy-policy.md)
+[Privacy Policy](privacy-policy.md)
 
 ---
 

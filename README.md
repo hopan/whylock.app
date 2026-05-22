@@ -29,7 +29,7 @@ Every unlock is logged. Your stats show intentional rate, skips, and top reasons
 
 ## Pricing
 
-**Free for 30 days.** Use Whylock mindfully and earn it free forever — reach 60% intentional unlocks during your trial and keep the app at no cost.
+**Free for 30 days.** Use Whylock mindfully and earn it free forever — reach 50% intentional unlocks during your trial and keep the app at no cost.
 
 Or unlock everything for a **one-time $0.99 purchase**. No subscription. No ads. Ever.
 

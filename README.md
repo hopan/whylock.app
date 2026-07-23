@@ -45,4 +45,4 @@ All data stays on your device. Nothing is sent to any server. No account require
 
 ## Download
 
-Coming soon on Google Play.
+[Google Play](https://play.google.com/store/apps/details?id=com.whylock.app)
